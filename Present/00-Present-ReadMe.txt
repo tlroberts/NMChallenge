@@ -25,15 +25,21 @@ Examples of Team Deliverables (due on designated deadline dates)
 
 
 In addition to the described scheduled Events, there are On-Going Activities.
- On-Going activities are continuous and may or may not coincide with a regularly 
+On-Going activities are continuous and may or may not coincide with a regularly 
 scheduled Challenge Event.
 
 Examples of On-Going Activities:
 - Financial (budgets, monthly income/expense reports, bank statements, tax forms)
-- Fund Raising (outreach to state legislature, grant applications and sponsorship requests to local, regional, national funding sources, donations of "in-kind" resources)
-- Correspondence (letters to and from teams, letters to and from sponsors, flyers, invitations to participate, notices, requirements or restrictions)
-- Governance (business plans, by-laws, operational procedures, board member roster, board member conflict of interest forms, meeting minutes, legal notices)
-- Facilitator Resources (curriculum ideas, presentations, handouts, lesson plans, exercises, team lists, mentors, contact info, checklists, judging rubrics)
+- Fund Raising (outreach to state legislature, grant applications/sponsorship requests 
+                to local, regional, national funding sources, donations of "in-kind"
+                resources)
+- Correspondence (letters to and from teams, letters to and from sponsors, flyers,
+                  invitations to participate, notices, requirements or restrictions)
+- Governance (business plans, by-laws, operational procedures, board member roster, 
+              board member conflict of interest forms, meeting minutes, legal notices)
+- Facilitator Resources (curriculum ideas, presentations, handouts, lesson plans,
+                         exercises, team lists, mentors, contact info, checklists, 
+                         judging rubrics)
 
 
 Finally, to allow for the unexpected things we generate and collect, 
